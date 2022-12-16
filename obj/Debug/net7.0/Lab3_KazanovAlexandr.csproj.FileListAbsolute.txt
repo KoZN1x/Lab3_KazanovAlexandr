@@ -1,0 +1,15 @@
+E:\Programms\Lab3_KazanovAlexandr\bin\Debug\net7.0\Lab3_KazanovAlexandr.exe
+E:\Programms\Lab3_KazanovAlexandr\bin\Debug\net7.0\Lab3_KazanovAlexandr.deps.json
+E:\Programms\Lab3_KazanovAlexandr\bin\Debug\net7.0\Lab3_KazanovAlexandr.runtimeconfig.json
+E:\Programms\Lab3_KazanovAlexandr\bin\Debug\net7.0\Lab3_KazanovAlexandr.dll
+E:\Programms\Lab3_KazanovAlexandr\bin\Debug\net7.0\Lab3_KazanovAlexandr.pdb
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.csproj.AssemblyReference.cache
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.AssemblyInfoInputs.cache
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.AssemblyInfo.cs
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.csproj.CoreCompileInputs.cache
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.dll
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\refint\Lab3_KazanovAlexandr.dll
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.pdb
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\Lab3_KazanovAlexandr.genruntimeconfig.cache
+E:\Programms\Lab3_KazanovAlexandr\obj\Debug\net7.0\ref\Lab3_KazanovAlexandr.dll
