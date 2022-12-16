@@ -57,16 +57,4 @@
             return $"Name of HDD is {name}.\nStorage of HDD is {storage} Tb.\nType of HDD is {type}.";
         }
     }
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            var computer = new Computer(500, "Samsung");
-            Console.WriteLine(computer.ToString());
-            var computer1 = new Computer(1000, "Samsung Gaming Edition", new RAM ("DDR4", 16), new HDD("WD Blue", 1, "External"));
-            Console.WriteLine(computer1.ToString());
-
-
-        }
-    }
 }
