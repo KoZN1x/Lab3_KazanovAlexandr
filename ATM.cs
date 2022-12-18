@@ -47,6 +47,11 @@ namespace Lab3_KazanovAlexandr
                 Console.WriteLine("Error! Withdrawal amount too small.");
                 return false;
             }
+            else if (sum % 10 != 0)
+            {
+                Console.WriteLine("Error! Incorrect value.");
+                return false;
+            }
             else
             {
                 amountOf100 -= banknotesOfSum[0];
